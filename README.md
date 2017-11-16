@@ -7,7 +7,7 @@
 java -jar com.baidu.dcs.KafkaSyncController   xxx.jar ./staticConf.properties
 ```
 
-## 版本历时
+## 版本历史
 发布时间 |版本号
 ----|------
 20171115 | 1.0.0
